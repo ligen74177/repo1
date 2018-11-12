@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "item",
+      "type": "com.ligen.it.controller.ItemController",
+      "sourceType": "com.ligen.it.controller.ItemController"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
