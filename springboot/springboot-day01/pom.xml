@@ -8,7 +8,6 @@
     <groupId>com.ligen.it</groupId>
     <artifactId>springboot-day01</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
